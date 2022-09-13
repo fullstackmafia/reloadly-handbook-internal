@@ -1,0 +1,23 @@
+{
+  "name": "reloadly-handbook-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "next": "12.2.5",
+    "octokit": "^2.0.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-markdown": "^6.0.3"
+  },
+  "devDependencies": {
+    "eslint": "8.22.0",
+    "eslint-config-next": "12.2.5"
+  }
+}
